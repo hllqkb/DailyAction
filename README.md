@@ -1,6 +1,6 @@
 # 基于WIN11TOAST的开机自启提醒工具
 图片:
-![image](https://user-images.githubusercontent.com/56122690/147819999-d5d5d57d-d55d-477d-876d-d5d9d5d5d5d5.png)
+![image](https://raw.githubusercontent.com/hllqkb/DailyAction/refs/heads/main/public.png)
 ## 没啥用的代码
 纯粹是用来提醒自己的和方便听歌和打开浏览器的，不过可以作为参考，增加自动签到什么的脚本或者获取回调结果。
 ## 安装教程
